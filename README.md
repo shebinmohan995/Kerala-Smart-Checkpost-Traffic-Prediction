@@ -18,6 +18,10 @@ Homepage
 
 <img src="./Screenshots/Screenshot%202026-10-26%20124807.png" width="700" />
 
+District-wise Traffic Visualization
+
+"District-wise Traffic Visualization" (./Screenshots/Screenshot%202026-10-26%20124940.png)
+
 🎯 Objectives
 
 Predict traffic density at Kerala check posts using Machine Learning.
