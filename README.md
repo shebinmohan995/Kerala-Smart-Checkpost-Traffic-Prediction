@@ -16,11 +16,11 @@ The project uses a Decision Tree Classifier to classify traffic density into fou
 
 Homepage
 
-"Application Homepage" (Screenshots/Screenshot%202026-10-26%20124606.png)
+"Homepage" (Screenshots/Screenshot%202026-10-26%20124606.png)
 
 Traffic Density Prediction
 
-"Traffic Density Prediction" (Screenshots/Screenshot%202026-10-26%20124807.png)
+"Prediction Result" (Screenshots/Screenshot%202026-10-26%20124807.png)
 
 🎯 Objectives
 
