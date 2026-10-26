@@ -1,10 +1,10 @@
 Kerala Smart Check Post Traffic Density Prediction
 
-# Live Demo
+🚀 Live Application
 
-Try the application online:
+Try the Kerala Smart Checkpost Traffic Density Prediction app online:
 
-[Open Kerala Smart Check Post Traffic Density Prediction](https://kerala-smart-checkpost-traffic-prediction-lu2rgvyyemvum4l672c.streamlit.app/)
+"Open Live Prediction App" (https://kerala-smart-checkpost-traffic-prediction-lu2rvgvyyevmum46l72c.streamlit.app/)
 
 📌 Project Overview
 
