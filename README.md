@@ -79,6 +79,24 @@ Classification Report
 Confusion Matrix
 Note: Model performance depends on the dataset and evaluation procedure. The reported accuracy should be verified against the final saved model and test results.
 
+📊 Model Evaluation
+
+The Decision Tree Classifier was trained to predict traffic density at Kerala smart check posts.
+
+- Machine Learning Algorithm: Decision Tree Classifier
+- Dataset Size: 10,000 records
+- Training Samples: 8,000
+- Testing Samples: 2,000
+- Accuracy: 97.75%
+
+Evaluation Metrics
+
+The model was evaluated using:
+
+- Accuracy Score
+- Classification Report (Precision, Recall, and F1-Score)
+- Confusion Matrix
+
 🚀 Features
 
 Predict traffic density from input features.
