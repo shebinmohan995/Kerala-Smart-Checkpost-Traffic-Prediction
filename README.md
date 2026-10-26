@@ -125,6 +125,35 @@ streamlit run app.py
 
 Open the local URL displayed in the terminal to use the application.
 
+🛠️ Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+- Streamlit
+- Jupyter Notebook
+- Git and GitHub
+
+🚀 How to Run the Project Locally
+
+1. Clone this repository:
+   
+   git clone https://github.com/shebinmohan995/Kerala-Smart-Checkpost-Traffic-Prediction.git
+
+2. Open the project folder:
+   
+   cd Kerala-Smart-Checkpost-Traffic-Prediction
+
+3. Install the required libraries:
+   
+   pip install -r requirements.txt
+
+4. Run the Streamlit application:
+   
+   streamlit run app.py
+
 🔮 Future Improvements
 
 Compare multiple Machine Learning algorithms.
