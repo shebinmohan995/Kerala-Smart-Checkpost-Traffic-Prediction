@@ -12,6 +12,16 @@ The Kerala Smart Check Post Traffic Density Prediction project is a Machine Lear
 
 The project uses a Decision Tree Classifier to classify traffic density into four categories: Low, Medium, High, and Very High. A Streamlit web application provides an interface for entering input details and viewing predictions.
 
+📸 Application Screenshots
+
+Homepage
+
+"Application Homepage" (screenshots/app_home.png)
+
+Traffic Density Prediction
+
+"Traffic Density Prediction" (screenshots/prediction_result.png)
+
 🎯 Objectives
 
 Predict traffic density at Kerala check posts using Machine Learning.
