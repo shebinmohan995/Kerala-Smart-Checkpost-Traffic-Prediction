@@ -10,21 +10,7 @@ st.set_page_config(
     page_title="Kerala Smart Check Post",
     layout="wide"
 )
-st.title("Kerala Smart Check Post")
-st.subheader("Traffic Density Prediction System")
-st.markdown("""This application predicts traffic density at kerala check post.""")
-st.sidebar.header("Traffic Information")
-district=st.sidebar.selectbox(
-    "District",['Kochi','Kottayam']
-)
-vehicle_type=st.sidebar.selectbox(
-     "vehicle Type:",["car",'bike']
-)
-st.write("District:",district)
-st.write("Vehicle Type:",vehicle_type)
 
-if st.button("Predict Traffic Density"):
-    st.info("Next,we will connect your trained model.")
 
 @st.cache_resource
 def load_model():
@@ -37,7 +23,7 @@ model,coder=load_model()
 
 st.title("Kerala Smart Check Post")
 st.subheader("Traffic Density Prediction System")
-st.success("Machine Learning Model Loaded Successfully!")
+
 
 st.sidebar.markdown("Traffic Information")
 with st.sidebar.form(key="Traffic_Form"):

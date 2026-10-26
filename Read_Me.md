@@ -1,5 +1,11 @@
 Kerala Smart Check Post Traffic Density Prediction
 
+# Live Demo
+
+Try the application online:
+
+[Open Kerala Smart Check Post Traffic Density Prediction](https://kerala-smart-checkpost-traffic-prediction-lu2rgvyyemvum4l672c.streamlit.app/)
+
 📌 Project Overview
 
 The Kerala Smart Check Post Traffic Density Prediction project is a Machine Learning application designed to predict traffic density at check posts in Kerala using vehicle, environmental, road, and traffic-related information.
